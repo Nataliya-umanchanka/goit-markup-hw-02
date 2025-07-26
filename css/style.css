@@ -60,6 +60,34 @@ background-color: #fff;
     color: #404bbf;
  }
 
+ .main-page {
+    background-color: #2e2f42;
+ }
+
+ .main-title {
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #ffffff;
+ }
+
+ .order-button {
+    background-color: #4D5AE5;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #ffffff;
+    cursor: pointer;
+ }
+
+ .order-button:hover,
+ .order-button:focus {
+    background-color: #404BBF;
+ }
+
  .page-footer {
     background-color: #2e2f42;
  }
@@ -67,3 +95,45 @@ background-color: #fff;
  .footer-logo .logo-part {
      color:  #f4f4fd;
  }
+
+ .portfolio {
+   width: 1128px;
+   height: 1000px;}
+
+ .portfolio-heading {
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+ }
+
+ .portfolio-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    list-style: none;
+    padding: 0;
+ }
+
+ .portfolio-item {
+    flex: 1;
+ }
+
+ .project-title {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+ }
+
+ .project-text {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+ }
+ 
+
