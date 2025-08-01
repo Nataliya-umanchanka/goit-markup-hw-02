@@ -60,14 +60,13 @@ background-color: #fff;
     color: #404bbf;
  }
 
- .main-page {
+ .main-page{
     background-color: #2e2f42;
  }
 
  .main-title {
     font-size: 56px;
     line-height: 1.07;
-    text-align: center;
     letter-spacing: 0.02em;
     color: #ffffff;
  }
@@ -96,9 +95,7 @@ background-color: #fff;
      color:  #f4f4fd;
  }
 
- .portfolio {
-   width: 1128px;
-   height: 1000px;}
+ 
 
  .portfolio-heading {
     font-size: 36px;
@@ -109,17 +106,7 @@ background-color: #fff;
     color: #2e2f42;
  }
 
- .portfolio-list {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 20px;
-    list-style: none;
-    padding: 0;
- }
-
- .portfolio-item {
-    flex: 1;
- }
+ 
 
  .project-title {
     font-weight: 500;
