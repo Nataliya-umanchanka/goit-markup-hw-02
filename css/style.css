@@ -109,17 +109,27 @@ background-color: #fff;
    letter-spacing:0.02em;
  }
 
- .team-list {
-   background-color: #F4F4FD;
- }
+ .team {
+   background-color:#F4F4FD;
+}
 
- .team-subtitle {
+ .team-title {
    font-size:36px;
    line-height:1.11;
    text-align:center;
    letter-spacing:0.02em;
    text-transform:capitalize;
    color:#2e2f42;
+ }
+
+ .team-list {
+   background-color:#FFFFFF;
+ }
+
+ team-subtitle {
+   font-weight:500;
+   font-size:20px;
+   line-height:1.2;
  }
 
  .team-text {
