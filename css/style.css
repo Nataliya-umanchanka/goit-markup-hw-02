@@ -67,7 +67,7 @@ background-color: #fff;
  .main-title {
     font-size: 56px;
     line-height: 1.07;
-    text-align:center
+    text-align:center;
     letter-spacing: 0.02em;
     color: #ffffff;
  }
@@ -96,7 +96,7 @@ background-color: #fff;
      color:  #f4f4fd;
  }
 
- .benefits-title {
+ .benefits-subtitle {
    font-weight:500;
    font-size:20px;
    line-height:1.2;
@@ -109,11 +109,11 @@ background-color: #fff;
    letter-spacing:0.02em;
  }
 
- .team {
+ .team-list {
    background-color: #F4F4FD;
  }
 
- .team-title {
+ .team-subtitle {
    font-size:36px;
    line-height:1.11;
    text-align:center;
