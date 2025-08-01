@@ -124,14 +124,10 @@ background-color: #fff;
 
  .team-list {
   list-style-type: none;
-  margin: 0;
-  padding: 0;
  }
 
  .team-item {
   background-color: #ffffff;
-  margin-bottom: 24px;
-  padding: 20px;
   text-align: center;
 }
 
